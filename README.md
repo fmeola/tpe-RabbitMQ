@@ -1,4 +1,4 @@
-# Rabbit MQ!
+# Rabbit MQ
 
 ## TP Ingeniería de Software II ##
 
@@ -15,17 +15,13 @@
 Instalar el servidor de RabbitMQ
 
 ```
-#!bash
 $ brew install rabbitmq
 ```
     
 Ejecutar el servidor de RabbitMQ
 
 ```
-#!bash
-
 $ rabbitmq-server 
-
 ```
 
 Para el ejemplo Hello World!
