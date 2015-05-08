@@ -1,2 +1,36 @@
-# tpe-RabbitMQ
-TP Ingeniería de Software II 
+# Rabbit MQ!
+
+## TP Ingeniería de Software II ##
+
+### 1C 2015 ###
+
+### Integrantes ###
+
+* Meola Franco Román
+* Puente Julieta
+* Strubolini Diego Martín
+
+## Instrucciones de Configuración ##
+
+Instalar el servidor de RabbitMQ
+
+```
+#!bash
+$ brew install rabbitmq
+```
+    
+Ejecutar el servidor de RabbitMQ
+
+```
+#!bash
+
+$ rabbitmq-server 
+
+```
+
+Para el ejemplo Hello World!
+
+Ejecutar Recv.java y luego Send.java.
+
+
+
